@@ -4,7 +4,7 @@
   <title><![CDATA[Category: github | Log Journal]]></title>
   <link href="http://imamtauhid.github.io/blog/categories/github/atom.xml" rel="self"/>
   <link href="http://imamtauhid.github.io/"/>
-  <updated>2015-10-04T01:42:31+07:00</updated>
+  <updated>2015-10-04T01:43:48+07:00</updated>
   <id>http://imamtauhid.github.io/</id>
   <author>
     <name><![CDATA[Imam Tauhid]]></name>
@@ -31,11 +31,9 @@ Jekyll merupakan mesin yang berkerja dibalik <a href="http://pages.github.com/">
 <ul>
 <li><strong>Simple Static Blogging generator</strong>,</li>
 <li><strong>Not Easy</strong>,</li>
-<li><a href="https://daringfireball.net/projects/markdown/"><strong>Markdown</strong></a>,</li>
+<li><a href="https://daringfireball.net/projects/markdown/"><strong>Markdown</strong></a></li>
 </ul>
 
-
-<p>Yang menarik dari Octopress adalah <a href="https://daringfireball.net/projects/markdown/">Markdown</a>,</p>
 ]]></content>
   </entry>
   
