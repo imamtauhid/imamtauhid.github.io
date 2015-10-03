@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Journal of Wanderer]]></title>
+  <title><![CDATA[Log Journal]]></title>
   <link href="http://imamtauhid.github.io/atom.xml" rel="self"/>
   <link href="http://imamtauhid.github.io/"/>
-  <updated>2015-10-03T12:12:58+07:00</updated>
+  <updated>2015-10-03T12:28:45+07:00</updated>
   <id>http://imamtauhid.github.io/</id>
   <author>
     <name><![CDATA[Imam Tauhid]]></name>
