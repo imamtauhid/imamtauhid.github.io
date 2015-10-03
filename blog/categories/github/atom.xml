@@ -4,7 +4,7 @@
   <title><![CDATA[Category: github | Log Journal]]></title>
   <link href="http://imamtauhid.github.io/blog/categories/github/atom.xml" rel="self"/>
   <link href="http://imamtauhid.github.io/"/>
-  <updated>2015-10-03T23:42:26+07:00</updated>
+  <updated>2015-10-04T01:42:31+07:00</updated>
   <id>http://imamtauhid.github.io/</id>
   <author>
     <name><![CDATA[Imam Tauhid]]></name>
@@ -18,11 +18,24 @@
     <link href="http://imamtauhid.github.io/blog/2015/10/03/octopress-di-github/"/>
     <updated>2015-10-03T13:09:05+07:00</updated>
     <id>http://imamtauhid.github.io/blog/2015/10/03/octopress-di-github</id>
-    <content type="html"><![CDATA[<p>Setelah sekitar (kurang lebih) dua hari untuk men-<strong>deploy</strong> blog ini akhirnya berhasil online. <a href="octopress.org">Octopress</a> ini memang berbeda dengan <a href="http://wordpress.org">Wordpress</a>, <a href="http://joomla.org">Joomla</a>, <a href="tumblr.com">Tumblr</a>, dan <a href="https://www.maxmanroe.com/daftar-web-2-0-properties-untuk-blog-gratisan.html">sejenisnya</a> karena butuh kemauan lebih untuk mengerti kode program,
+    <content type="html"><![CDATA[<p>Setelah sekitar (kurang lebih) dua hari untuk men-<strong>deploy</strong> dan akhirnya blog ini akhirnya berhasil online.
+<a href="octopress.org">Octopress</a> memang berbeda dengan <a href="http://wordpress.org">Wordpress</a>, <a href="http://joomla.org">Joomla</a>, <a href="tumblr.com">Tumblr</a>, dan <a href="https://www.maxmanroe.com/daftar-web-2-0-properties-untuk-blog-gratisan.html">sejenisnya</a> karena butuh kemauan lebih untuk mengerti kode program,
 jadi wajar jargon nya &ldquo;A Blogging Framework for Hackers&rdquo;.</p>
 
-<p>Octopress merupakan framework yang dibuat dan di design oleh <a href="http://brandonmathis.com/">Brandon Mathis</a> untuk
-<a href="http://github.com/mojombo/jekyll">Jekyll</a>, Apa itu Jekyll ?? Jekyll adalah engine static site generator sederhana untuk web personal, sebuah project, atau suatu website organisasi. Jekyll merupakan mesin yang berkerja dibalik <a href="http://pages.github.com/">Github Pages</a> sehingga kita dapat meng-<strong>hosting</strong> sebuah website dari repo <strong>Github</strong>.</p>
+<p>Octopress merupakan <strong>framework</strong> yang dibuat dan di desain oleh <a href="http://brandonmathis.com/">Brandon Mathis</a> untuk
+<a href="http://github.com/mojombo/jekyll">Jekyll</a>, Apa itu Jekyll ?? Jekyll adalah engine static site generator sederhana untuk web personal, sebuah project, atau suatu website organisasi.
+Jekyll merupakan mesin yang berkerja dibalik <a href="http://pages.github.com/">Github Pages</a> sehingga kita dapat meng-<strong>hosting</strong> sebuah website dari repo <strong>Github</strong>.</p>
+
+<p>Beberapa hal yang menarik dari Octopress :</p>
+
+<ul>
+<li><strong>Simple Static Blogging generator</strong>,</li>
+<li><strong>Not Easy</strong>,</li>
+<li><a href="https://daringfireball.net/projects/markdown/"><strong>Markdown</strong></a>,</li>
+</ul>
+
+
+<p>Yang menarik dari Octopress adalah <a href="https://daringfireball.net/projects/markdown/">Markdown</a>,</p>
 ]]></content>
   </entry>
   
