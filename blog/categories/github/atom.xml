@@ -4,7 +4,7 @@
   <title><![CDATA[Category: github | Log Journal]]></title>
   <link href="http://imamtauhid.github.io/blog/categories/github/atom.xml" rel="self"/>
   <link href="http://imamtauhid.github.io/"/>
-  <updated>2015-10-04T10:50:49+07:00</updated>
+  <updated>2015-10-04T22:25:17+07:00</updated>
   <id>http://imamtauhid.github.io/</id>
   <author>
     <name><![CDATA[Imam Tauhid]]></name>
@@ -18,7 +18,12 @@
     <link href="http://imamtauhid.github.io/blog/2015/10/03/octopress-di-github/"/>
     <updated>2015-10-03T13:09:05+07:00</updated>
     <id>http://imamtauhid.github.io/blog/2015/10/03/octopress-di-github</id>
-    <content type="html"><![CDATA[<p>Setelah sekitar (kurang lebih) dua hari untuk men-<strong>deploy</strong> dan blog ini akhirnya berhasil online.
+    <content type="html"><![CDATA[<div class="header-image">
+    <img src="https://cdn.tutsplus.com/webdesign/authors/ian-yates/octopress-header.png" alt="octopress"/>
+</div>
+
+
+<p>Setelah sekitar (kurang lebih) dua hari untuk men-<strong>deploy</strong> dan blog ini akhirnya berhasil online.
 <a href="octopress.org">Octopress</a> memang berbeda dengan <a href="http://wordpress.org">Wordpress</a>, <a href="http://joomla.org">Joomla</a>, <a href="tumblr.com">Tumblr</a>, dan <a href="https://www.maxmanroe.com/daftar-web-2-0-properties-untuk-blog-gratisan.html">sejenisnya</a> karena butuh kemauan lebih untuk mengerti kode program,
 jadi wajar jargon nya &ldquo;A Blogging Framework for Hackers&rdquo;.</p>
 
