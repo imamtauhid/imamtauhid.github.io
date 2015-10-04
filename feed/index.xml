@@ -1,24 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-
-  <title><![CDATA[Category: github | Log Journal]]></title>
-  <link href="http://imamtauhid.github.io/blog/categories/github/atom.xml" rel="self"/>
-  <link href="http://imamtauhid.github.io/"/>
-  <updated>2015-10-05T01:07:57+07:00</updated>
+  <title>Log Journal</title>
+  <link rel="alternate" type="text/html" href="http://imamtauhid.github.io/"/>
+  <link rel="self" type="application/atom+xml" href="http://imamtauhid.github.io/feed/"/>
   <id>http://imamtauhid.github.io/</id>
-  <author>
-    <name><![CDATA[Imam Tauhid]]></name>
-    <email><![CDATA[imam.tauhid.dar@gmail.com]]></email>
-  </author>
+  <updated>2015-10-03T13:09:05+07:00</updated>
   <generator uri="http://octopress.org/">Octopress</generator>
-
   
+  <rights>Copyright © 2015, Imam Tauhid</rights>
+
   <entry>
-    <title type="html"><![CDATA[Octopress di Github]]></title>
-    <link href="http://imamtauhid.github.io/blog/2015/10/03/octopress-di-github/"/>
+    <title type="html">Octopress di Github</title>
+    
+    <link rel="alternate" type="text/html" href="http://imamtauhid.github.io/blog/2015/10/03/octopress-di-github/"/>
+    
+    <id>/blog/2015/10/03/octopress-di-github</id>
+    <published>2015-10-03T13:09:05+07:00</published>
     <updated>2015-10-03T13:09:05+07:00</updated>
-    <id>http://imamtauhid.github.io/blog/2015/10/03/octopress-di-github</id>
-    <content type="html"><![CDATA[<div class="header-image">
+    <author>
+      <name>Imam Tauhid</name>
+      <uri>http://imamtauhid.github.io/</uri>
+    </author>
+    <content type="html" xml:base="http://imamtauhid.github.io/" >
+<![CDATA[
+
+<div class="header-image">
     <img src="https://cdn.tutsplus.com/webdesign/authors/ian-yates/octopress-header.png" alt="octopress"/>
 </div>
 
@@ -48,7 +54,11 @@ meskipun belum ada standarisasi yang jelas mengenai sintaks bahasa Markdown, tet
 
 
 <p>Bila kalian tertarik, silahkan dicoba.</p>
-]]></content>
+
+
+
+]]>
+    </content>
   </entry>
-  
+
 </feed>

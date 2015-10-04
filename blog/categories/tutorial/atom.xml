@@ -4,7 +4,7 @@
   <title><![CDATA[Category: tutorial | Log Journal]]></title>
   <link href="http://imamtauhid.github.io/blog/categories/tutorial/atom.xml" rel="self"/>
   <link href="http://imamtauhid.github.io/"/>
-  <updated>2015-10-04T22:25:17+07:00</updated>
+  <updated>2015-10-05T01:07:57+07:00</updated>
   <id>http://imamtauhid.github.io/</id>
   <author>
     <name><![CDATA[Imam Tauhid]]></name>
@@ -27,6 +27,9 @@
 <a href="octopress.org">Octopress</a> memang berbeda dengan <a href="http://wordpress.org">Wordpress</a>, <a href="http://joomla.org">Joomla</a>, <a href="tumblr.com">Tumblr</a>, dan <a href="https://www.maxmanroe.com/daftar-web-2-0-properties-untuk-blog-gratisan.html">sejenisnya</a> karena butuh kemauan lebih untuk mengerti kode program,
 jadi wajar jargon nya &ldquo;A Blogging Framework for Hackers&rdquo;.</p>
 
+<!--more-->
+
+
 <p>Octopress merupakan <strong>framework</strong> yang dibuat dan di desain oleh <a href="http://brandonmathis.com/">Brandon Mathis</a> untuk
 <a href="http://github.com/mojombo/jekyll">Jekyll</a>, Apa itu Jekyll ?? Jekyll adalah engine static site generator sederhana untuk web personal, sebuah project, atau suatu website organisasi.
 Jekyll merupakan mesin yang berkerja dibalik <a href="http://pages.github.com/">Github Pages</a> sehingga kita dapat meng-<strong>hosting</strong> sebuah website dari repo <strong>Github</strong>.</p>
@@ -43,6 +46,8 @@ tidak menggunakan GUI untuk (post konten, generate konten, publish konten) semua
 meskipun belum ada standarisasi yang jelas mengenai sintaks bahasa Markdown, tetapi sintaks bahasa ini sangat populer. Tujuan dibuatnya sintaks bahasa ini agar mudah dibaca, mudah ditulis di dalam format text, dan secara optional dapat dikonversikan kedalam struktur XHTML/HTML yang valid.</li>
 </ul>
 
+
+<p>Bila kalian tertarik, silahkan dicoba.</p>
 ]]></content>
   </entry>
   
