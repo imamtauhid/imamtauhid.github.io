@@ -4,7 +4,7 @@
   <title><![CDATA[Log Journal]]></title>
   <link href="http://imamtauhid.github.io/atom.xml" rel="self"/>
   <link href="http://imamtauhid.github.io/"/>
-  <updated>2015-10-10T16:57:10+07:00</updated>
+  <updated>2015-10-14T22:27:33+07:00</updated>
   <id>http://imamtauhid.github.io/</id>
   <author>
     <name><![CDATA[Imam Tauhid]]></name>
@@ -12,6 +12,120 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Prinsip Programmer]]></title>
+    <link href="http://imamtauhid.github.io/blog/2015/10/14/prinsip-programmer/"/>
+    <updated>2015-10-14T10:06:30+07:00</updated>
+    <id>http://imamtauhid.github.io/blog/2015/10/14/prinsip-programmer</id>
+    <content type="html"><![CDATA[<div class="header-image">
+    <img src="http://2.bp.blogspot.com/-odSJ9e-AYTo/UwZ8qIhhGqI/AAAAAAAABks/EZdOY1R5E5E/s1600/Computer+Programming.jpg" alt="octopress"/>
+</div>
+
+
+<p></p>
+
+<p>Kenapa butuh prinsip? Karena prinsip yang menjadi dasar pokok manusia berfikir dan bertindak.</p>
+
+<blockquote><p> prin·sip n asas (kebenaran yg menjadi pokok dasar berpikir, bertindak, dsb); dasar;
+&ndash; deskripsi asas perbedaan;
+&ndash; konvensi asas persesuaian;
+ber·prin·sip v mempunyai (menganut) prinsip (<strong>KBBI</strong>)</p></blockquote>
+
+<!--more-->
+
+
+<p>Programmer juga punya prinsip, <strong>S.O.L.I.D</strong> :</p>
+
+<ul>
+<li><strong>S</strong>ingle responsibility principle</li>
+<li><strong>O</strong>pen closed principle</li>
+<li><strong>L</strong>iskov substitution principle</li>
+<li><strong>I</strong>nterface segregation principle</li>
+<li><strong>D</strong>ependency inversion principle</li>
+</ul>
+
+
+<p>Dengan menggunakan prinsip-prinsip diatas programmer mampu untuk menulis (<strong>Class</strong>, <strong>Method</strong>, Relasi antar <strong>Class</strong>, dsb) dengan tepat dan efisien.</p>
+
+<p>Sulit untuk membuat contoh dari masing-masing penjabaran secara sederhana, mungkin ini penjelasannya</p>
+
+<blockquote><p>if you can&rsquo;t explain it simply, you don&rsquo;t understand it well enough (Albert Einstein)</p></blockquote>
+
+<p>Berikut hasil akhir penjelasan masing-masing prinsip (secara singkat),</p>
+
+<h2><a href="https://en.m.wikipedia.org/wiki/Single_responsibility_principle">Single Responsibility Principle (SRP)</a></h2>
+
+<div class="header-image">
+    <img src="http://1.bp.blogspot.com/-RvgwlZ_ZzkU/VP-LzQnm1UI/AAAAAAAA2MI/ig_Jz3oFEGg/s1600/solid%2Bis%2Bnot%2Ba%2Bjenga%2Bgame.jpg" alt="octopress"/>
+</div>
+
+
+<p></p>
+
+<p>Suatu (<strong>Class, Module, Method, dsb</strong>) harus dan hanya mempunyai satu tanggung jawab.</p>
+
+<blockquote><p>A class should only have one reason to change (<em>Robert C Martin</em>)</p></blockquote>
+
+<h2><a href="https://en.m.wikipedia.org/wiki/Open/closed_principle">Open Close Principle (OCP)</a></h2>
+
+<div class="header-image">
+    <img src="https://lostechies.com/derickbailey/files/2011/03/OpenClosedPrinciple2_2C596E17.jpg" alt="octopress"/>
+</div>
+
+
+<p></p>
+
+<p>Suatu (<strong>Class, Module, Method, dsb</strong>) terbuka untuk di <em>extend</em>, tetapi tidak boleh di modifikasi.</p>
+
+<blockquote><p>A class is closed, since it may be compiled, stored in a library, baselined, and used by client classes. But it is also open, since any new class may use it as parent, adding new features. When a descendant class is defined, there is no need to change the original or to disturb its clients. (<em>Meyer, Bertrand</em>)</p></blockquote>
+
+<h2><a href="https://en.m.wikipedia.org/wiki/Liskov_substitution_principle">Liskov Substitution Principle (LSP)</a></h2>
+
+<div class="header-image">
+    <img src="http://blogs.msdn.com/blogfiles/cdndevs/WindowsLiveWriter/BarbaraLiskovInterviewed_9945/liskov_substitution_principle_small_3.jpg" alt="octopress"/>
+</div>
+
+
+<p></p>
+
+<p>Suatu <strong>Function</strong> yang menunjuk <strong>Class</strong> dasar, harus mampu menggunakan <strong>Object</strong> dari <strong>Class</strong> turunan yang ditunjuk, tanpa ada &ldquo;<em>kesalahan</em>&rdquo;.</p>
+
+<blockquote><p>Child classes should never break the parent class type definition (Liskov, Barbara)</p></blockquote>
+
+<h2><a href="https://en.m.wikipedia.org/wiki/Interface_segregation_principle">Inteface Segregation Principle (ISP) </a></h2>
+
+<div class="header-image">
+    <img src="https://lostechies.com/derickbailey/files/2011/03/InterfaceSegregationPrinciple_60216468.jpg" alt="octopress"/>
+</div>
+
+
+<p></p>
+
+<p><strong>Class-Client</strong> saat menunjuk sebuah <strong>Class</strong> terkadang tidak membutuhkan seluruh method nya. Untuk itu terdapat layer <em>Interface</em>.</p>
+
+<blockquote><p>Client should not be forced to depend on method they do not use (Robert C Martin)</p></blockquote>
+
+<h2><a href="https://en.m.wikipedia.org/wiki/Dependency_injection">Dependency Inversion Principle (DIP)</a></h2>
+
+<div class="header-image">
+    <img src="http://www.globalnerdy.com/wordpress/wp-content/uploads/2009/07/dependency_inversion_principle.jpg" alt="octopress"/>
+</div>
+
+
+<p></p>
+
+<p><strong>High-Module</strong> tidak bergantung pada <strong>Low-Module</strong> . Keduanya bergantung pada Abstraksi, dan Abstraksinya tidak bergantung pada Detail tetapi Detail yang bergantung pada Abstraksinya.</p>
+
+<blockquote><ul>
+<li>High-level modules should not depend on low-level modules. Both should depend on abstraction.</li>
+<li>Abstractions should not depend on details. Details should not depend on abstraction. (Robert C Martin)</li>
+</ul>
+</blockquote>
+
+<p>Pada kesempatan selanjutnya akan dijabarkan secara men-detail dari masing-masing prinsip diatas.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Octopress di Github]]></title>

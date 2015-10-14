@@ -1,30 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Log Journal</title>
-  <link rel="alternate" type="text/html" href="http://imamtauhid.github.io/"/>
-  <link rel="self" type="application/atom+xml" href="http://imamtauhid.github.io/feed/"/>
+
+  <title><![CDATA[Category: srp | Log Journal]]></title>
+  <link href="http://imamtauhid.github.io/blog/categories/srp/atom.xml" rel="self"/>
+  <link href="http://imamtauhid.github.io/"/>
+  <updated>2015-10-14T22:27:33+07:00</updated>
   <id>http://imamtauhid.github.io/</id>
-  <updated>2015-10-14T10:06:30+07:00</updated>
+  <author>
+    <name><![CDATA[Imam Tauhid]]></name>
+    <email><![CDATA[imam.tauhid.dar@gmail.com]]></email>
+  </author>
   <generator uri="http://octopress.org/">Octopress</generator>
+
   
-  <rights>Copyright © 2015, Imam Tauhid</rights>
-
   <entry>
-    <title type="html">Prinsip Programmer</title>
-    
-    <link rel="alternate" type="text/html" href="http://imamtauhid.github.io/blog/2015/10/14/prinsip-programmer/"/>
-    
-    <id>/blog/2015/10/14/prinsip-programmer</id>
-    <published>2015-10-14T10:06:30+07:00</published>
+    <title type="html"><![CDATA[Prinsip Programmer]]></title>
+    <link href="http://imamtauhid.github.io/blog/2015/10/14/prinsip-programmer/"/>
     <updated>2015-10-14T10:06:30+07:00</updated>
-    <author>
-      <name>Imam Tauhid</name>
-      <uri>http://imamtauhid.github.io/</uri>
-    </author>
-    <content type="html" xml:base="http://imamtauhid.github.io/" >
-<![CDATA[
-
-<div class="header-image">
+    <id>http://imamtauhid.github.io/blog/2015/10/14/prinsip-programmer</id>
+    <content type="html"><![CDATA[<div class="header-image">
     <img src="http://2.bp.blogspot.com/-odSJ9e-AYTo/UwZ8qIhhGqI/AAAAAAAABks/EZdOY1R5E5E/s1600/Computer+Programming.jpg" alt="octopress"/>
 </div>
 
@@ -130,63 +124,7 @@ ber·prin·sip v mempunyai (menganut) prinsip (<strong>KBBI</strong>)</p></block
 </blockquote>
 
 <p>Pada kesempatan selanjutnya akan dijabarkan secara men-detail dari masing-masing prinsip diatas.</p>
-
-
-
-]]>
-    </content>
+]]></content>
   </entry>
-
-  <entry>
-    <title type="html">Octopress di Github</title>
-    
-    <link rel="alternate" type="text/html" href="http://imamtauhid.github.io/blog/2015/10/03/octopress-di-github/"/>
-    
-    <id>/blog/2015/10/03/octopress-di-github</id>
-    <published>2015-10-03T13:09:05+07:00</published>
-    <updated>2015-10-03T13:09:05+07:00</updated>
-    <author>
-      <name>Imam Tauhid</name>
-      <uri>http://imamtauhid.github.io/</uri>
-    </author>
-    <content type="html" xml:base="http://imamtauhid.github.io/" >
-<![CDATA[
-
-<div class="header-image">
-    <img src="https://cdn.tutsplus.com/webdesign/authors/ian-yates/octopress-header.png" alt="octopress"/>
-</div>
-
-
-<p>Setelah sekitar (kurang lebih) dua hari untuk men-<strong>deploy</strong> dan blog ini akhirnya berhasil online.
-<a href="octopress.org">Octopress</a> memang berbeda dengan <a href="http://wordpress.org">Wordpress</a>, <a href="http://joomla.org">Joomla</a>, <a href="tumblr.com">Tumblr</a>, dan <a href="https://www.maxmanroe.com/daftar-web-2-0-properties-untuk-blog-gratisan.html">sejenisnya</a> karena butuh kemauan lebih untuk mengerti kode program,
-jadi wajar jargon nya &ldquo;A Blogging Framework for Hackers&rdquo;.</p>
-
-<!--more-->
-
-
-<p>Octopress merupakan <strong>framework</strong> yang dibuat dan di desain oleh <a href="http://brandonmathis.com/">Brandon Mathis</a> untuk
-<a href="http://github.com/mojombo/jekyll">Jekyll</a>, Apa itu Jekyll ?? Jekyll adalah engine static site generator sederhana untuk web personal, sebuah project, atau suatu website organisasi.
-Jekyll merupakan mesin yang berkerja dibalik <a href="http://pages.github.com/">Github Pages</a> sehingga kita dapat meng-<strong>hosting</strong> sebuah website dari repo <strong>Github</strong>.</p>
-
-<p>Beberapa hal yang menarik dari Octopress :</p>
-
-<ul>
-<li><strong>Simple Static Blogging generator</strong>,
-tidak dibutuhkan koneksi database untuk menyimpan konten yang telah di post.
-Jekyll mengambil file content, render konten (Markdown) lalu diletakkan pada Liquid Template, setelah selesai static file akan di serve oleh apache, nginx, atau web server yang lainnya.</li>
-<li><strong>KISS (Keep It Simple Stupid)</strong>,
-tidak menggunakan GUI untuk (post konten, generate konten, publish konten) semua menggunakan command-line. (YAY!)</li>
-<li><a href="https://daringfireball.net/projects/markdown/"><strong>Markdown</strong></a>,
-meskipun belum ada standarisasi yang jelas mengenai sintaks bahasa Markdown, tetapi sintaks bahasa ini sangat populer. Tujuan dibuatnya sintaks bahasa ini agar mudah dibaca, mudah ditulis di dalam format text, dan secara optional dapat dikonversikan kedalam struktur XHTML/HTML yang valid.</li>
-</ul>
-
-
-<p>Bila kalian tertarik, silahkan dicoba.</p>
-
-
-
-]]>
-    </content>
-  </entry>
-
+  
 </feed>

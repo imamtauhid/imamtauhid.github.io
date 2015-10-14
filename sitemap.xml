@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://imamtauhid.github.io/blog/2015/10/14/prinsip-programmer/</loc>
+    <lastmod>2015-10-14T10:06:30+07:00</lastmod>
+  </url>
+  <url>
     <loc>http://imamtauhid.github.io/blog/2015/10/03/octopress-di-github/</loc>
     <lastmod>2015-10-03T13:09:05+07:00</lastmod>
   </url>
@@ -27,5 +31,35 @@
   </url>
   <url>
     <loc>http://imamtauhid.github.io/blog/categories/framework/</loc>
+  </url>
+  <url>
+    <loc>http://imamtauhid.github.io/blog/categories/fundamental/</loc>
+  </url>
+  <url>
+    <loc>http://imamtauhid.github.io/blog/categories/programmer/</loc>
+  </url>
+  <url>
+    <loc>http://imamtauhid.github.io/blog/categories/solid/</loc>
+  </url>
+  <url>
+    <loc>http://imamtauhid.github.io/blog/categories/principle/</loc>
+  </url>
+  <url>
+    <loc>http://imamtauhid.github.io/blog/categories/prinsip/</loc>
+  </url>
+  <url>
+    <loc>http://imamtauhid.github.io/blog/categories/srp/</loc>
+  </url>
+  <url>
+    <loc>http://imamtauhid.github.io/blog/categories/ocp/</loc>
+  </url>
+  <url>
+    <loc>http://imamtauhid.github.io/blog/categories/lsp/</loc>
+  </url>
+  <url>
+    <loc>http://imamtauhid.github.io/blog/categories/isp/</loc>
+  </url>
+  <url>
+    <loc>http://imamtauhid.github.io/blog/categories/dip/</loc>
   </url>
 </urlset>
